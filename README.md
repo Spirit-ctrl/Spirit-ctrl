@@ -30,6 +30,8 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
 ![API](https://img.shields.io/badge/API-REST-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-red)
+![Aiogram](https://img.shields.io/badge/Aiogram-green)
 
 ---
 
