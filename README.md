@@ -1,0 +1,72 @@
+# 👋 Привет, я Spirit-ctrl
+
+💻 Python-разработчик | 🤖 Автоматизация | 🧠 Backend & Bots  
+
+---
+
+## 🚀 Обо мне
+
+- 🔭 Разрабатываю проекты на **Python**
+- ⚙️ Интересуюсь автоматизацией, API, ботами и логикой приложений
+- 🧩 Люблю понятный код и практичные решения
+- 📈 Постоянно развиваюсь и изучаю новые технологии
+
+---
+
+## 🧰 Технологии и инструменты
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![API](https://img.shields.io/badge/API-REST-orange)
+
+---
+
+## 📌 Мои проекты
+
+### 🌤 [WeatherBot](https://github.com/Spirit-ctrl/WeatherBot)
+Бот для получения прогноза погоды через API.  
+`Python · API · Automation`
+
+---
+
+### 🚗 [OnlineCarShop](https://github.com/Spirit-ctrl/OnlineCarShop)
+Веб-проект автосалона с каталогом автомобилей.  
+`Web · Backend · Python`
+
+---
+
+### 🧠 [Tyu](https://github.com/Spirit-ctrl/Tyu)
+Экспериментальный проект для отработки логики и структуры приложений.  
+`Python · Practice`
+
+---
+
+### 🪞 [MYMirror-](https://github.com/Spirit-ctrl/MYMirror-)
+Проект с зеркальным интерфейсом / отображением информации.  
+`UI · Experiment`
+
+---
+
+### 🤖 [RoboCode](https://github.com/Spirit-ctrl/RoboCode)
+Проект, связанный с программированием логики поведения и автоматизации.  
+`Algorithms · Python`
+
+---
+
+## 📈 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spirit-ctrl&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spirit-ctrl&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Контакты
+
+- GitHub: https://github.com/Spirit-ctrl  
+- (по желанию можно добавить Telegram / Email)
+
+---
+
+⭐ Если тебе понравились мои проекты — буду рад ⭐ и фидбеку!
