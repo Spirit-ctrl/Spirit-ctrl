@@ -55,13 +55,6 @@
 
 ---
 
-## 📈 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spirit-ctrl&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spirit-ctrl&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Контакты
 
 - GitHub: https://github.com/Spirit-ctrl  
