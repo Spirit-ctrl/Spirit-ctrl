@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-
+![Танцующая жаба](https://your-image-url.com/frog_snake.gif)
 
 💻 Python-разработчик | 🤖 Автоматизация | 🧠 Backend & Bots  
 
