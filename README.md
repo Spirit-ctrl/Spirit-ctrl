@@ -65,7 +65,8 @@
 ## 📫 Контакты
 
 - GitHub: https://github.com/Spirit-ctrl  
-- (по желанию можно добавить Telegram / Email)
+- Telegram: https://t.me/spirititq
+- Email: kostya.kuznetsov72@mail.ru
 
 ---
 
