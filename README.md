@@ -61,7 +61,7 @@
 
 ---
 
-### 🤖 [RoboCode](https://github.com/Spirit-ctrl/RoboCode)
+### 🤖 [Auto Insyall LINUX app](https://github.com/Spirit-ctrl/RoboCode)
 Проект, связанный с программированием логики поведения и автоматизации.  
 `Algorithms · Python`
 
