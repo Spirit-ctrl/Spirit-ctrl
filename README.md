@@ -1,5 +1,15 @@
 # 👋 Привет, я Spirit-ctrl
 
+
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+
+
 💻 Python-разработчик | 🤖 Автоматизация | 🧠 Backend & Bots  
 
 ---
